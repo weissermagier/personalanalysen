@@ -1,0 +1,3 @@
+service {
+	"MultiTarget.tinydb::myview" as "euro" keys generate local "ID";
+}
